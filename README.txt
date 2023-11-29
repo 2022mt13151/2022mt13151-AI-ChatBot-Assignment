@@ -1,5 +1,8 @@
 Please customize it according to 2022mt13151-AI-ChatBot-Assignment project's specific requirements and structure.
 
+GIT-HUB Link:https://github.com/2022mt13151/2022mt13151-AI-ChatBot-Assignment.git
+Google Drive Link:https://drive.google.com/file/d/1qqVbFtnRMnrmTCuZ4w2i__cvEEiYh9lE/view?usp=sharing
+
 ```markdown
 # Chatbot with OpenAI API
 
