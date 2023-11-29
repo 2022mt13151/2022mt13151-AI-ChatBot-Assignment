@@ -1,4 +1,4 @@
-Certainly! Below is an example of a README file containing installation and execution instructions for 2022mt13151-AI-ChatBot-Assignment project. Please customize it according to 2022mt13151-AI-ChatBot-Assignment project's specific requirements and structure.
+Please customize it according to 2022mt13151-AI-ChatBot-Assignment project's specific requirements and structure.
 
 ```markdown
 # Chatbot with OpenAI API
